@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hey+%F0%9F%91%8B+I'm+Sachin;Software+Engineer+%7C+Applied+AI+%7C+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hey+%F0%9F%91%8B+I'm+Sachin;SWE+%7C+Applied+AI+%7C+Distributed+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,16 +34,9 @@ location: Hyderabad, India
 education: B.Tech CSE, BIT Mesra (CGPA: 8.94/10)
 
 expertise:
-  - Applied AI & LLM Orchestration (Claude/GPT, LangGraph, LangChain)
+  - Applied AI & LLM Orchestration (Claude/GPT, LangGraph, LangChain, RAG, MCP)
   - Distributed Systems & Microservices Architecture
   - Platform Engineering & Cloud-Native Solutions (AWS, EKS, Kubernetes)
-
-highlights:
-  - Built AI-powered MR review platform for 130+ microservices — 96% faster reviews
-  - Reduced external verification calls by 50% for partner IDV workflows
-  - Automated vulnerability pipelines across 129 repos and 9 release stages
-  - Top 8 semifinalist at T-Mobile's Disrupt-A-Thon (AI chaos-engineering)
-  - Key Contributor Award & Broadridge Wall of Fame inductee
 
 competitive_programming:
   - 1,000+ DSA problems solved
@@ -54,16 +47,37 @@ competitive_programming:
 <br/>
 
 <!-- ===== EXPERIENCE TIMELINE ===== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> &nbsp;Experience
+## 💼 Experience
+<div align="center">
+<table>
+  <tr>
+    <th>Period</th>
+    <th>Role</th>
+    <th>Company</th>
+  </tr>
+  <tr>
+    <td>2026 – Present</td>
+    <td><b>Software Engineer</b></td>
+    <td><b>T-Mobile</b></td>
+  </tr>
+  <tr>
+    <td>2023 – 2025</td>
+    <td><b>Full Stack SDE</b></td>
+    <td><b>Broadridge</b></td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td><b>SDE Intern</b></td>
+    <td><b>Broadridge</b></td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td><b>Research Intern</b></td>
+    <td><b>IIIT Allahabad</b></td>
+  </tr>
+</table>
 
-| Period | Role | Company |
-|:------:|------|---------|
-| **2026 — Present** | **Software Engineer** | **T-Mobile** — IDV workflows, AI-powered code review, GitLab CI vulnerability pipelines, GPT-4o Vision prototyping |
-| **2023 — 2025** | **Full Stack SDE** | **Broadridge** — Java 17/Spring Boot 3 microservices, Angular UI, Jenkins CI/CD, legacy modernization |
-| **2023** | **SDE Intern** | **Broadridge** — Enterprise PoCs (Java, .NET, MERN), financial domain knowledge |
-| **2022** | **Research Intern** | **IIIT Allahabad** — CNN-based drowsiness detection, 97% accuracy, TensorFlow |
-
-<br/>
+</div>
 
 <!-- ===== TECH STACK ===== -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> &nbsp;Tech Stack
@@ -113,55 +127,9 @@ competitive_programming:
 
 <br/>
 
-<!-- ===== KEY PROJECTS ===== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Impact Highlights
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Code Review Platform
-> Built for **130+ microservices** at T-Mobile
-- Claude/GPT orchestration with self-verification
-- Aggregates GitLab, Jira, SonarQube data
-- **96% faster** MR reviews (20 min → 20 sec)
-
-### 🔐 Partner IDV Workflow Engine
-> Privacy-first identity verification
-- Forward-deployed delivery with Product, SRE, SDET
-- Feature-flagged credit workflows (non-PII identifiers)
-- **50% reduction** in external verification calls
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Vulnerability Pipeline Automation
-> GitLab CI across **129 repos, 9 release stages**
-- Dependency-aware Maven POM upgrades
-- Auto-generated 34 review-ready MRs per sprint
-- Zero local repository clones needed
-
-### 🎨 AI White-Label Onboarding
-> GPT-4o Vision for zero-touch partner config
-- Re-themes UI from natural-language + logo/URL
-- Demonstrated zero-touch partner onboarding
-- Prototype → production path validated
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <!-- ===== GITHUB STATS ===== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/sachin4429">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachin4429&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Sachin's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin4429&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/sachin4429">
